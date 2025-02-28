@@ -2,11 +2,9 @@
 
 🌟 First-Year Computer Science & Engineering Student at UCLA
 
-🚀 Passionate about AI/ML/CV and its applications in robotics.
+🚀 Passionate about AI/ML/CV in robotics.
 
 🧠 Exploring Robot Policy Learning at the Robot Intelligence Lab at UCLA
-
-💡 Collaborating with Chunkr (YCW24) to build a web app using OCR and semantic chunking to improve document analysis
 
 ⚡ Fun fact: Member of UCLA Comptitive Badminton Team
 
