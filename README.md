@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daniel Wu
+# Hi, I’m Daniel Wu 👋 
 
 🌟 First-Year Computer Science & Engineering Student at UCLA
 
