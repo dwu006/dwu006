@@ -8,9 +8,9 @@
 
 🏸 Fun fact: Member of UCLA Comptitive Badminton Team
 
-✨ Always open to collaboration and exciting ideas. Reach out to danielwu28@g.ucla.edu if you want to build or if you want to [chat](https://calendar.app.google/ME4xyLWwgmkGU9nn6)!
+✨ Always open to collaboration and exciting ideas. Reach out to danielwu28@g.ucla.edu if you want to build or if you want to chat!
 
-👤 Check out my [website](https://dwu006.github.io/) and connect with me on [LinkedIn](https://www.linkedin.com/in/danielwu06)
+👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/danielwu06) or [X](https://x.com/danielwu28)
 
 
 
