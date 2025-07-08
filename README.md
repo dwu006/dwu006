@@ -1,6 +1,6 @@
 # Hi, I’m Daniel Wu 👋 
 
-🌟 First-Year Computer Science & Engineering Student at UCLA
+🌟 2nd Year Computer Science & Engineering Student at UCLA
 
 🧠 Passionate about AI/ML/CV in robotics.
 
