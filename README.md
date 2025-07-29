@@ -4,7 +4,7 @@
 
 🧠 interested in anything in robotics!
 
-🏸 love to play badminton, watch anime in my free time!
+🏸 plays badminton
 
 ✨ always open to collaboration and exciting ideas. reach out to danielwu28@g.ucla.edu!
 
