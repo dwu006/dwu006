@@ -1,18 +1,12 @@
-# Hi, I’m Daniel Wu 👋 
+# hi, im daniel wu 👋 
 
-🌟 2nd Year Computer Science & Engineering Student at UCLA
+🌟 cse @ ucla
 
-🧠 Passionate about AI/ML/CV in robotics.
+🧠 interested in anything in robotics!
 
-🤖 Exploring Robot Policy Learning at the UCLA Robot Intelligence Lab
+🏸 love to play badminton, watch anime in my free time!
 
-🏸 Fun fact: Member of UCLA Comptitive Badminton Team
-
-✨ Always open to collaboration and exciting ideas. Reach out to danielwu28@g.ucla.edu if you want to build or if you want to chat!
-
-👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/danielwu06) or [X](https://x.com/danielwu28)
-
-
+✨ always open to collaboration and exciting ideas. reach out to danielwu28@g.ucla.edu!
 
 <!---
 dwu006/dwu006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
