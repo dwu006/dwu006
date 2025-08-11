@@ -4,11 +4,11 @@
 
 🧠 interested in anything in robotics!
 
-🏸 plays badminton
+🏸 badminton player
 
-✨ always open to collaboration and exciting ideas. reach out to danielwu28@g.ucla.edu!
+✨ always open to collaboration and exciting ideas. reach out to danielwu28@g.ucla.edu
 
-❗ most work in private repos!
+❗ most work in private repos
 
 <!---
 dwu006/dwu006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
