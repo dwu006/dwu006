@@ -1,14 +1,21 @@
-# hi, im daniel wu 👋 
+# hi!👋 
 
-🌟 cse @ ucla
+im daniel! currently a 2nd year studying cse @ ucla. interested in robot learning and humanoids🤖
 
-🧠 interested in anything in robotics!
+# work experience
+- researcher at [uril](https://ucla-robot-intelligence-lab.github.io/)
+- co-founder at seoro
+- swe and research at [alphaz](https://alpha-z.ai/)
+- swe at [unishack](unishack.org)
 
-✨ always open to collaboration and exciting ideas. reach out to danielwu28@g.ucla.edu
+# random things;)
 
-# about me
+[anime list](https://anilist.co/user/danielw123/animelist)\
+gundam collection (coming soon)\
+photography (coming soon)
 
-
+dm me on [X](https://x.com/danielwu28) or 
+danielwu28 [at] ucla.edu for collabs or anything!
 
 
 <!---
