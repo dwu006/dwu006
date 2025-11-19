@@ -1,3 +1,5 @@
+![Github Banner](https://vastphotos.com/files/uploads/photos/10542/san-francisco-fine-art-photo-m.jpg?v=20241007151544)
+
 # hi!👋 
 
 im daniel! currently a 2nd year studying cse @ ucla. interested in robot learning and humanoids🤖
