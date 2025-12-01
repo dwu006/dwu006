@@ -1,24 +1,25 @@
-![Github Banner](https://vastphotos.com/files/uploads/photos/10542/san-francisco-fine-art-photo-m.jpg?v=20241007151544)
+<p align="center">
+  <img src="https://vastphotos.com/files/uploads/photos/10542/san-francisco-fine-art-photo-m.jpg?v=20241007151544" 
+       alt="Github Banner" 
+       width="100%" />
+</p>
 
-# hi!👋 
+# hi! 👋
 
-im daniel! currently a 2nd year studying cse @ ucla. interested in robot learning and humanoids🤖
+i'm daniel — a 2nd year studying cse @ ucla, interested in robot learning + humanoids 🤖
 
-# work experience
-- researcher at [uril](https://ucla-robot-intelligence-lab.github.io/)
-- co-founder at seoro
-- swe and research at [alphaz](https://alpha-z.ai/)
-- swe at [unishack](unishack.org)
+## work experience
+- researcher at <a href="https://ucla-robot-intelligence-lab.github.io/" target="_blank" rel="noopener noreferrer">uril</a>  
+- co-founder at seoro  
+- swe + research at <a href="https://alpha-z.ai/" target="_blank" rel="noopener noreferrer">alphaz</a>  
+- swe at <a href="https://unishack.org" target="_blank" rel="noopener noreferrer">unishack</a>  
 
-# random things;)
-
-[anime list](https://anilist.co/user/danielw123/animelist)\
-gundam collection (coming soon)\
+## random things ;)
+<a href="https://anilist.co/user/danielw123/animelist" target="_blank" rel="noopener noreferrer">anime list</a>  
+gundam collection (coming soon)  
 photography (coming soon)
 
-dm me on [X](https://x.com/danielwu28) or 
-danielwu28 [at] ucla.edu for collabs or anything!
-
+dm me on <a href="https://x.com/danielwu28" target="_blank" rel="noopener noreferrer">X</a> or email: **danielwu28 [at] ucla.edu**  
 
 <!---
 dwu006/dwu006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
