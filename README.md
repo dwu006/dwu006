@@ -6,7 +6,7 @@ im daniel! currently a 2nd year studying cse @ ucla. interested in robot learnin
 
 # work experience
 - researcher at [uril](https://ucla-robot-intelligence-lab.github.io/)
-- co-founder at seoro
+- co-founder at [seoro](https://seoro.ai/) (looking for pre-seed investors!)
 - swe and research at [alphaz](https://alpha-z.ai/)
 - swe at [unishack](unishack.org)
 
