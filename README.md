@@ -14,7 +14,7 @@ im daniel! currently a 2nd year studying cse @ ucla. interested in robot learnin
 
 [anime list](https://anilist.co/user/danielw123/animelist)\
 [books](https://www.goodreads.com/user/show/195930640-daniel-wu)\
-gundam collection (coming soon)\
+gundam (coming soon)\
 photography (coming soon)
 
 dm me on [X](https://x.com/danielwu28) or 
