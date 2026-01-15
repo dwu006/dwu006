@@ -11,7 +11,7 @@ im daniel! currently a 2nd year studying cse @ ucla. interested in robot learnin
 - swe at [unishack](unishack.org)
 
 # random things;)
-
+[google scholar](https://scholar.google.com/citations?user=OjMWZ-cAAAAJ&hl=en)\
 [anime list](https://anilist.co/user/danielw123/animelist)\
 [books](https://www.goodreads.com/user/show/195930640-daniel-wu)\
 gundam (coming soon)\
