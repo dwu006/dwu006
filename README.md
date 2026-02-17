@@ -6,8 +6,8 @@ im daniel! currently a 2nd year studying cse @ ucla. interested in robot learnin
 
 # work experience
 - researcher at [uril](https://ucla-robot-intelligence-lab.github.io/)
-- swe and research at [alphaz](https://alpha-z.ai/)
-- prev swe at [unishack](unishack.com)
+- ex swe and research at [alphaz](https://alpha-z.ai/)
+- ex swe at [unishack](unishack.com)
 
 # random things;)
 [google scholar](https://scholar.google.com/citations?user=OjMWZ-cAAAAJ&hl=en)\
