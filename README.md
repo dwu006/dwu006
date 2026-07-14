@@ -5,6 +5,7 @@
 im daniel! currently a 2nd year studying cse @ ucla. interested in robot learning and humanoids🤖
 
 # work experience
+- member of technical staff at [proception](https://www.proception.ai/)
 - researcher at [uril](https://ucla-robot-intelligence-lab.github.io/)
 - ex eng at [human archive](https://www.humanarchive.ai/)
 - ex swe and research at [alphaz](https://alpha-z.ai/)
@@ -13,7 +14,7 @@ im daniel! currently a 2nd year studying cse @ ucla. interested in robot learnin
 # random things;)
 [google scholar](https://scholar.google.com/citations?user=OjMWZ-cAAAAJ&hl=en)\
 [anime list](https://anilist.co/user/danielw123/animelist)\
-[books](https://www.goodreads.com/user/show/195930640-daniel-wu)\
+[books](https://www.goodreads.com/user/show/195930640-daniel-wu)
 
 dm me on [X](https://x.com/danielwu28) or 
 danielwu28 [at] ucla.edu for collabs or anything!
