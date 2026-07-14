@@ -2,7 +2,7 @@
 
 # hi!👋 
 
-im daniel! currently a 2nd year studying cse @ ucla. interested in robot learning and humanoids🤖
+im daniel! currently a 3rd year studying cse @ ucla. interested in robot learning and humanoids🤖
 
 # work experience
 - member of technical staff [proception](https://www.proception.ai/)
