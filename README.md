@@ -5,7 +5,7 @@
 im daniel! currently a 3rd year studying cse @ ucla. interested in robot learning and humanoids🤖
 
 # work experience
-- member of technical staff [proception](https://www.proception.ai/)
+- member of technical staff (intern) [proception](https://www.proception.ai/)
 - researcher [uril](https://ucla-robot-intelligence-lab.github.io/)
 - ex eng [human archive](https://www.humanarchive.ai/)
 - ex swe and research [alphaz](https://alpha-z.ai/)
